@@ -1,0 +1,10 @@
+#titulo {
+    background-color: #ffc8dd;
+    text-align: center;
+    box-shadow: 10px 10px 30px #ffc8dd ;
+}
+
+
+.row{
+justify-content: center
+}
